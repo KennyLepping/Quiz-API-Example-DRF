@@ -1,2 +1,2 @@
-# YT-Django-API-Quiz-React-Frontend-Part2
+# Quiz-API-Example-DRF
  
